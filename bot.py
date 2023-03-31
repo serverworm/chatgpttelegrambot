@@ -3,8 +3,8 @@ import time
 import openai
 from aiogram import Bot, Dispatcher, executor, types
 
-bot_token = '6232666539:AAGIoB950zeQQ_t-LMc6CSYS14LgZnBmA60'
-api_key = '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'
+bot_token = ''
+api_key = ''
 
 logging.basicConfig(level=logging.INFO)
 
